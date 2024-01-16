@@ -1,4 +1,3 @@
-# ztest_module.py
 
 import unittest
 from config.config import Configuration

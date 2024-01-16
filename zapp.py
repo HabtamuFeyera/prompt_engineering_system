@@ -1,4 +1,4 @@
-# zapp.py
+
 
 from config.config import Configuration
 
@@ -10,4 +10,4 @@ api_key = config_instance.api_key
 max_attempts = config_instance.max_attempts
 log_level = config_instance.log_level
 
-# Use the configuration parameters in your application logic
+
